@@ -41,3 +41,10 @@
 
 5. **Accessing the Project**:
    - Open a web browser and visit the URL where the project is running. The README should specify the address (e.g., `http://localhost:3000`).
+
+6. ***This Repo Open Run & Install One Single Line Of Command:***
+
+```bash
+   git clone https://github.com/ikramuzzaman455173/react-tailwind-starter-templates.git && cd react-tailwind-starter-templates && npm install && code . && npm run dev
+```
+
