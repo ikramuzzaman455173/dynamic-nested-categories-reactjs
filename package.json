@@ -9,7 +9,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@szhsin/react-accordion": "^1.2.4",
     "daisyui": "^4.12.10",
     "localforage": "^1.10.0",
     "match-sorter": "^6.3.1",
